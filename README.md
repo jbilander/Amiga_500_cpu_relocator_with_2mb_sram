@@ -31,9 +31,9 @@ The 2MB can be placed in any of the 16-bit Zorro II space slots with addmem, the
 <a href="images/Amiga_500_cpu_relocator_with_2mb_sram_pic6.jpg">
 <img src="images/Amiga_500_cpu_relocator_with_2mb_sram_pic6.jpg" width="202" height="152">
 </a>
-<br />
+<br /><br />
 Testing the relocator with a TF530 that has 2 MB onboard ram. Setting the relocator ram as higher priority memory really slows down the accelelerator since it has to insert wait states to talk to the 7 MHz bus.
-<br />
+<br /><br />
 <a href="images/Amiga_500_cpu_relocator_with_2mb_sram_pic7.jpg">
 <img src="images/Amiga_500_cpu_relocator_with_2mb_sram_pic7.jpg" width="202" height="152">
 </a>
